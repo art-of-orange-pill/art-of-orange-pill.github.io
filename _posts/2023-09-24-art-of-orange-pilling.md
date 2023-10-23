@@ -13,7 +13,7 @@ comments: true
 
 #### *Colin Gifford | CA*
 
-![bitcoin_large](https://github.com/dragon-foobar/dragon-foobar.github.io/assets/129810153/d8729e8e-12d5-4f96-a90f-bba1c267a426)
+<img src="https://github.com/dragon-foobar/dragon-foobar.github.io/assets/129810153/d8729e8e-12d5-4f96-a90f-bba1c267a426" width="70%" alt="bitcoin logo">
 
 
 ***Orange Pill:** To start seeing the world through the lens of bitcoin*
@@ -129,8 +129,12 @@ dating back to the 1920s, 1940s, 1970s, 2000s, and beyond. In each
 instance, the wealth gap between the top 1% and the bottom 90% has
 expanded.
 
-> The increase in wealth from the top 1%. Notice how the increase is
-always after a recession
+
+<figure>
+    <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1awPP&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:100%;" allowTransparency="true" loading="lazy"></iframe>
+    <figcaption>The increase in wealth from the top 1%. Notice how the increase is
+always after a recession.</figcaption>
+</figure>
 
 Those fortunate enough to have purchased homes with regular incomes
 from the 1970s to even the mid-2000s are now sitting on what seems
