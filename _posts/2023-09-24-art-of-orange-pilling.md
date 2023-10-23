@@ -2,8 +2,9 @@
 layout: post
 title: The Art of Orange Pill
 subtitle: How to articulate Bitcoin's value proposition
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+thumbnail-img: https://images7.alphacoders.com/697/thumb-1920-697220.jpg
+share-img: https://paintingandframe.com/art-imgs/frans_hals/saint_john_the_evangelist-63040.jpg
+cover-img: https://images7.alphacoders.com/697/thumb-1920-697220.jpg
 tags: [how-to]
 comments: true
 ---
