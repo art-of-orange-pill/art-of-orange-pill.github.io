@@ -130,11 +130,11 @@ instance, the wealth gap between the top 1% and the bottom 90% has
 expanded.
 
 
-<figure>
-    <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1awPP&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:100%;" allowTransparency="true" loading="lazy"></iframe>
-    <figcaption>The increase in wealth from the top 1%. Notice how the increase is
-always after a recession.</figcaption>
-</figure>
+
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1awPP&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+
+> The increase in wealth from the top 1%. Notice how the increase is
+always after a recession.
 
 Those fortunate enough to have purchased homes with regular incomes
 from the 1970s to even the mid-2000s are now sitting on what seems
@@ -690,3 +690,5 @@ to 100th Wealth Percentiles**
 Source: Federal Reserve Economic Data (FRED)
 [Website](https://fred.stlouisfed.org/series/WFRBST01134)
 Accessed Date: 01/09/2023
+
+<script src="https://fred.stlouisfed.org/graph/js/embed.js" type="text/javascript"></script>
