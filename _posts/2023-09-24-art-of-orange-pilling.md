@@ -4,9 +4,12 @@ title: The Art of Orange Pill
 subtitle: How to articulate Bitcoin's value proposition
 thumbnail-img: https://images7.alphacoders.com/697/thumb-1920-697220.jpg
 share-img: https://paintingandframe.com/art-imgs/frans_hals/saint_john_the_evangelist-63040.jpg
+share-title: The Art of Orange Pill
 cover-img: https://images7.alphacoders.com/697/thumb-1920-697220.jpg
-tags: [how-to]
+tags: [orange pill, money printing, salable good, bitcoin]
 comments: true
+readtime: true
+language: en
 ---
 
 # The Art of the Orange Pill
@@ -166,6 +169,7 @@ inflation disproportionately advantages individuals with existing
 wealth while placing an added burden on those with lower incomes. This
 perpetuates the wealth gap.
 
+<img src="https://wtfhappenedin1971home.files.wordpress.com/2021/08/e8j1qysxsai4g5d.jpg" width="100%" alt="Chart showing years it takes to save for a house since 1971"/>
 > Years it takes to save for a house, arrow points to when President
 Nixon closed the gold exchange window in 1971
 
@@ -238,7 +242,7 @@ crisis for another occasion. For now, we're simply posing a few
 straightforward questions to set this sizable locomotive in motion.
 Eventually, inertia will take care of the rest.
 
-Once we've established that we agree with the normie that inflation
+Once we've established that we agree with the "Normie" that inflation
 is immoral, we should take a step further and emphasize that it stems
 from our flawed monetary system. In our current system, money is
 essentially credit, and credit is money. This situation arises from
@@ -271,7 +275,7 @@ spending drives up inflation, leaving poorer people further behind,
 which necessitates more spending. This is how governments tend to
 expand.
 
-Another point I'd like the reader to explore with their normie is to
+Another point I'd like the reader to explore with their "Normie" is to
 challenge the necessity of inflation. In my university studies, I was
 taught that the target inflation rate is set at 2-3%, considered a
 'Goldilocks' scenario. However, a glaring question arises: why? Why
@@ -443,7 +447,7 @@ offers higher interest rates, more individuals are inclined to invest
 in the EUR compared to a year ago, driving up the Euro's price while\
 simultaneously reducing demand for the AUD.
 
-For normies, I would pose the question: wouldn't it be more
+For "Normies", I would pose the question: wouldn't it be more
 convenient if Australia, Europe, and indeed the entire world adopted a
 single currency? How beneficial would this be for developing nations
 if they could simply trade using USD? However, one should consider
@@ -540,7 +544,7 @@ bitcoin instead of traditional FX trading. As a side note, it's worth
 mentioning that everything is currently priced in USD, so we would
 exchange USD for BTC in this context.
 
-### How bitcoin acheives salability across scale
+### How bitcoin achieves salability across scale
 
 bitcoin's ability to achieve salability across space is a testament
 to its revolutionary design and the power of decentralised networks.
@@ -572,7 +576,7 @@ worldwide.
 
 I am fully aware that the outline to orange pill may not fully take
 the shape of what i have laid out above. Thus in preparation for this,
-i have written our short reponses to potential push backs, arguments
+I have written short responses to potential push backs, arguments
 or questions that you would likely receive.
 
 ### *"Bitcoin Has No Intrinsic Value"*
@@ -580,7 +584,7 @@ or questions that you would likely receive.
 The argument that bitcoin lacks intrinsic value is commonly raised by
 skeptics, including those who may not be well-versed in the subject
 and those who prefer alternative assets like gold. To counter this
-point, it\'s essential to recognise that value is fundamentally
+point, it's essential to recognise that value is fundamentally
 subjective. While some argue for an objective value based on
 quantifiable factors, such as the labor required for production, the
 Austrian perspective highlights the subjectivity of value, tied
@@ -602,7 +606,7 @@ consider the broader trend. Over the years, bitcoin's volatility has
 consistently decreased as adoption has expanded. This means that it
 now requires a more substantial influx of capital to trigger
 significant price fluctuations, resulting in greater price stability.
-While some criticise bitcoin's price swings, it\'s worth noting that
+While some criticise bitcoin's price swings, it's worth noting that
 owning an asset with occasional fluctuations may be preferable to
 holding one with a consistently diminishing value.
 
@@ -633,7 +637,7 @@ since the 1970s, inherently carries a monetary premium. Consequently,
 they view real estate not solely as an investment opportunity but as a
 primary place of residence, with potential for future profit upon
 sale. Many individuals invest their entire equity in their homes (sometimes with
-150% debt) due to the common belief that \'property values always
+150% debt) due to the common belief that 'property values always
 appreciate,' without delving into the reasons behind this trend.
 It's crucial to remember that the poor monetary management by central
 banks compels people to seek stores of value for their money. In light
@@ -664,11 +668,10 @@ I hope that this paper can lead to opportunities, but ultimately,
 bitcoin has enabled me to find my center and become a better person,
 just as I hope it does for you.
 
-Stay Healthy and Stack sats
+Stay Healthy and Stack Sats,
 
 Colin Gifford
-
-September 2023
+*September 2023*
 
 ## References
 
